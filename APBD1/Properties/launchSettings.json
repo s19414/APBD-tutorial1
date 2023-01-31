@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "APBD1": {
+      "commandName": "Project",
+      "commandLineArgs": "https://pja.edu.pl/"
+    }
+  }
+}
